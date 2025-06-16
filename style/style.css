@@ -1,6 +1,6 @@
-@import url("def-style.css");
+@import url("def/def-style.css");
 @import url("classes.css");
-@import url("def-adaptation.css");
+@import url("def/def-adaptation.css");
 @import url("fonts.css");
 @import url("animation.css");
 @import url("main.css");
